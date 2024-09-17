@@ -1,0 +1,10 @@
+loguru==0.7.2
+PyMuPDF==1.24.9
+langchain==0.2.14
+langchain-community==0.2.12
+langchain-huggingface==0.0.3
+langchain-chroma==0.1.2
+langchain-groq==0.1.9
+chromadb==0.5.5
+streamlit
+requests
